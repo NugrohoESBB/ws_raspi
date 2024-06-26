@@ -1,11 +1,11 @@
-# Basic Raspberry
+# 🛠️🔗 Basic Raspberry 🔗🛠️
 Run SSH -> depending on the IP address
 
-# GPIO
+# 🔗 GPIO 🔍
 ![Wiring](https://github.com/NugrohoESBB/ws_raspi/blob/main/GPIO%20R3B%2B.png)
 
 # 
-# Command Line
+# 🔗 Command Line 📖
 
 ## Melihat IP address yang digunakan raspi
 ```c++
@@ -85,7 +85,7 @@ sudo shutdown -h now
 ```
 
 # 
-# Documentation
+# 🔗 Documentation 📒📄
 
 ## Light Sensor Pin Use to Raspi
 
@@ -113,7 +113,7 @@ sudo shutdown -h now
 | `IN2` | `Communication Serial` |`7`|
 | `GND` | `Ground` |`GND`|
 
-# Optional
+# ⚠️ Optional ⚠️
 ## Install pip in linux
 ```c++
 sudo apt install python3-pip
