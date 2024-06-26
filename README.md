@@ -74,6 +74,11 @@ sudo mv (file name) (new file name)
 sudo rm -R (file name)
 ```
 
+## Config raspi
+```c++
+sudo raspi-config
+```
+
 ## Reboot raspi
 ```c++
 sudo reboot
